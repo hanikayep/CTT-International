@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+.banner{
+    background: url('dist/img/banner.png');
+}
 
 .letter-space-5{
     letter-spacing: 5px;
